@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/zevoffc/nayla",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "^4.5.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.47.0",
     "axios": "^0.25.0",
